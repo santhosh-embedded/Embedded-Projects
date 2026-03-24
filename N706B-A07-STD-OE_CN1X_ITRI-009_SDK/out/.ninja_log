@@ -1,0 +1,20 @@
+# ninja log v5
+156	3587	7950106146293557	CMakeFiles/nwy_open_app.dir/nwy_test_demo/nwy_test_cli/modules/nwy_test_cli_loc.obj	f307146c2510a64c
+7	3828	7950106148763255	CMakeFiles/nwy_open_app.dir/nwy_test_demo/nwy_test_cli/comm/nwy_test_cli_utils.obj	5e357b00c5e0f71a
+395	3921	7950106148295092	CMakeFiles/nwy_open_app.dir/nwy_test_demo/nwy_test_cli/modules/nwy_test_cli_data.obj	f50544cd4c8c712b
+56	3980	7950106150996341	CMakeFiles/nwy_open_app.dir/nwy_test_demo/nwy_test_cli/comm/nwy_test_cli_adpt.obj	b38bd3b2d4d0d29a
+175	4297	7950106153249139	CMakeFiles/nwy_open_app.dir/nwy_test_demo/nwy_test_cli/modules/nwy_test_cli_sim.obj	bdf7fd02d3d48380
+248	4758	7950106153605569	CMakeFiles/nwy_open_app.dir/nwy_test_demo/nwy_test_cli/modules/nwy_test_cli_fota.obj	e8478c807764288b
+535	5027	7950106159530378	CMakeFiles/nwy_open_app.dir/nwy_test_demo/nwy_test_cli/modules/nwy_test_cli_network.obj	a8aaf5bdac952e15
+21	5179	7950106161099083	CMakeFiles/nwy_open_app.dir/nwy_test_demo/nwy_test_cli/modules/nwy_test_cli_http.obj	44c51f0d62cfa434
+568	5187	7950106161878576	CMakeFiles/nwy_open_app.dir/nwy_test_demo/odt_vts_application/Peripheral_Driver/driver.obj	125140ad7bab4137
+36	5193	7950106162507257	CMakeFiles/nwy_open_app.dir/nwy_test_demo/nwy_test_cli/modules/nwy_test_cli_os.obj	1cf8dfc61f198d31
+3623	5735	7950106168838338	CMakeFiles/nwy_open_app.dir/nwy_test_demo/odt_vts_application/Peripheral_Driver/drv_callback.obj	4a05e9fa62822d83
+4002	5790	7950106169587085	CMakeFiles/nwy_open_app.dir/nwy_test_demo/odt_vts_application/NET_Application/Network.obj	9ae54cdee0c54028
+4480	5843	7950106169577116	CMakeFiles/nwy_open_app.dir/nwy_test_demo/odt_vts_application/SMS/sms.obj	98b42391f4fe54c9
+3939	5878	7950106170338173	CMakeFiles/nwy_open_app.dir/nwy_test_demo/odt_vts_application/HTTP_Server/http.obj	7b6b5179bc2214b
+3831	5914	7950106170815143	CMakeFiles/nwy_open_app.dir/nwy_test_demo/odt_vts_application/VTS_Application/VTS_App.obj	b8f422f4b1096180
+4897	5995	7950106171810419	CMakeFiles/nwy_open_app.dir/nwy_test_demo/odt_vts_application/Flash/flash.obj	923401edea358446
+5081	6321	7950106175339835	CMakeFiles/nwy_open_app.dir/nwy_test_demo/odt_vts_application/OTA/ota.obj	b7743574685868bb
+6322	7660	7950106186765422	bin/nwy_open_app.elf	840ec6015724d6af
+6322	7660	7950106186765422	bin/nwy_open_app.bin	840ec6015724d6af

@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "math.h": "c",
+        "stdarg.h": "c",
+        "cmath": "c",
+        "random": "c",
+        "complex": "c",
+        "chrono": "c",
+        "nwy_ssl_config.h": "c",
+        "source_location": "c",
+        "nwy_sim_api.h": "c",
+        "nwy_osi_api.h": "c",
+        "nwy_uart_api.h": "c",
+        "nwy_http_api.h": "c",
+        "nwy_dm_api.h": "c",
+        "nwy_baseline_version.h": "c",
+        "nwy_common.h": "c",
+        "nwy_loc_api.h": "c"
+    },
+    "idf.pythonInstallPath": "C:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe"
+}
