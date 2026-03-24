@@ -254,7 +254,7 @@ void VTS_App_Polling(void)
         odt_vts_dbgPrintf("\r\n FIX FLAG = %s", Loc_param.fix_quality);
         odt_vts_dbgPrintf("\r\n locMsg1.m_nHDOP:%f! \r\n", Loc_param.hdop);
         odt_vts_dbgPrintf("This is the new Chnage\r\n");
-        //  odt_vts_dbgPrintf("This is the new again change it\r\n");
+         odt_vts_dbgPrintf("This is the new again change it\r\n");
         
         Send_HeartBeat();
         // SendMsg = Locationnotification;
